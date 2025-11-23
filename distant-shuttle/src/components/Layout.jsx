@@ -1,4 +1,3 @@
-```javascript
 import React, { useEffect } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { Home, PlusSquare, User, Calendar } from 'lucide-react';
@@ -68,4 +67,3 @@ const Layout = ({ children }) => {
 };
 
 export default Layout;
-```
